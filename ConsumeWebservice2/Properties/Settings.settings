@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ConsumeWebservice2.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ConsumeWebservice2_localhost_CartService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://localhost:44386/CartService.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
